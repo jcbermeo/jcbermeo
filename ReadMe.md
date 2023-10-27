@@ -1,7 +1,7 @@
 # Juan C. Bermeo
 **Automated to Create**
 
-Hello, world! I'm a software engineer building and understanding the digital world one step at a time. Here you will find my coding projects and, for those autodidactic people and students, helpful scripts and extra projects that will help you to understand programming and other software.
+Hello, world! I'm a systems engineer building and understanding the digital world one step at a time. Here you will find my coding projects and, for those autodidactic people and students, helpful scripts and extra projects that will help you to understand programming and other software.
 
 ---
 ### Languages and Tools
